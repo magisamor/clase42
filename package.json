@@ -1,0 +1,22 @@
+{
+  "name": "clase42",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magisamor/clase42.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magisamor/clase42/issues"
+  },
+  "homepage": "https://github.com/magisamor/clase42#readme",
+  "dependencies": {
+    "cool-images": "^1.0.3"
+  }
+}
